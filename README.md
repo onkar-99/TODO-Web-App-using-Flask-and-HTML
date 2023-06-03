@@ -16,13 +16,13 @@ The TODO Web Application is a Flask-based backend project developed in collabora
 
 ### Examples
 #### 1. Add New Task
-![Alt Text](output/add_task.png)
+<img src="Output/add_task.png" width="650" height="350">
 
 #### 2. View Tasks
-![Alt Text](output/tasks.png)
+<img src="Output/tasks.png" width="650" height="350">
 
 #### 1. Edit Task
-![Alt Text](output/edit.png)
+<img src="Output/edit.png" width="650" height="350">
 
 #### 2. Delete Task
-![Alt Text](output/delete.png)
+<img src="Output/delete.png" width="650" height="350">
